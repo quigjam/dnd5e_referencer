@@ -1,0 +1,135 @@
+.sidenav {
+    height: 100%;
+    width: 100px;
+    /*width:0pm*/
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: left;
+    color: #818181;
+    display: block;
+    /*transition: 0.3s;*/
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+ /* .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  */
+  #main {
+    margin-left: 100px;
+    /*transition: margin-left .5s;*/
+    /*padding: 16px;*/
+  }
+
+  /* -------------------------------- Classes.css --------------------------------*/
+  .barbarian {
+
+    background-color: #ffdf80;
+    border-style: solid;
+    border-color: black;
+
+  }
+  .bard {
+
+    background-color: #ffebcc;
+    border-style: solid;
+    border-color: black;
+  }
+
+  .cleric {
+
+    background-color: #e5f9ff;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .druid {
+
+    background-color: #bbff99;
+    border-style: solid;
+    border-color: black;
+  }
+
+  .fighter {
+
+    background-color: #cce6ff;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .monk {
+
+    background-color: #ffb380;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .paladin {
+
+    background-color: #ffffb3;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .ranger {
+
+    background-color: #bbff99;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .rogue {
+
+    background-color: #d98c8c;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .sorcerer {
+
+    background-color: #ccffff;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .warlock {
+
+    background-color: #d9b3ff;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  .wizard {
+
+    background-color: #ccccff;
+    border-style: solid;
+    border-color: black;
+
+  }
