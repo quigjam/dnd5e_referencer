@@ -133,3 +133,7 @@
     border-color: black;
 
   }
+  ul.a {
+    list-style-type: none;
+    padding: 0;
+  }
